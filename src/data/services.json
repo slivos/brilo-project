@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Látkové tašky s potiskem",
+    "description": "Dlouhá význam s sionismu ty, jí antény i sezona, bílá malých izolovány uvést masové vodě",
+    "image_url": "https://picsum.photos/316/316"
+  },
+  {
+    "id": 2,
+    "name": "Látkové tašky bez potisku",
+    "description": "Dlouhá význam s sionismu ty, jí antény i sezona",
+    "image_url": "https://picsum.photos/316/316"
+  },
+  {
+    "id": 3,
+    "name": "Bílé papírové tašky",
+    "description": "Dlouhá význam s sionismu ty, jí antény i sezona, bílá malých izolovány uvést masové vodě",
+    "image_url": "https://picsum.photos/316/316"
+  },
+  {
+    "id": 4,
+    "name": "Barevné papírové tašky na dárky",
+    "description": "Dlouhá význam s sionismu ty, jí antény i sezona, bílá malých izolovány uvést masové vodě",
+    "image_url": "https://picsum.photos/316/316"
+  },
+  {
+    "id": 5,
+    "name": "Papírové tašky z recyklovatelného materiálu",
+    "description": "Dlouhá význam s sionismu ty, jí antény i sezona, bílá malých izolovány uvést masové vodě",
+    "image_url": "https://picsum.photos/316/316"
+  },
+  {
+    "id": 6,
+    "name": "Igelitové sáčky s logem",
+    "description": "Dlouhá význam s sionismu ty, jí antény i sezona, bílá malých izolovány uvést masové vodě",
+    "image_url": "https://picsum.photos/316/316"
+  },
+  {
+    "id": 7,
+    "name": "Velké igelitové tašky s potiskem",
+    "description": "Dlouhá význam s sionismu ty, jí antény i sezona, bílá malých izolovány uvést masové vodě",
+    "image_url": "https://picsum.photos/316/316"
+  }
+]
