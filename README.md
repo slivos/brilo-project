@@ -33,3 +33,9 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### CSS naming system
+
+```sh
+BEM naming system (Block-Element-Modifier)
+```
